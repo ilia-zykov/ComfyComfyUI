@@ -48,7 +48,7 @@
 ## Установка вручную (любая ОС)
 
 ```bash
-git clone https://github.com/<your-name>/comfy-panel.git
+git clone https://github.com/iliazykov19-cpu/ComfyComfyUI.git
 cd comfy-panel
 
 # По желанию — скопировать и поправить env (дефолты обычно подходят)
